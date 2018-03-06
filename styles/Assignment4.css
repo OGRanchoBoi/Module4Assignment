@@ -1,0 +1,28 @@
+
+#Ken {
+    position: absolute;
+    z-index: 1;
+    margin-bottom: 600px;
+    width: 600px;
+    height: 600px;
+    background-color: #FFFFFF; visibility: hidden;
+}
+
+#Ryu {
+    position: absolute;
+    z-index: 0;
+    width: 600px;
+    height: 600px;
+    background-color: #FFFFFF; visibility: hidden;
+}
+
+h3 {
+    color: red;
+}
+
+footer {
+    
+    margin-top:600px;
+    
+}
+
